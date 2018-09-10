@@ -1,0 +1,8 @@
+E:\Projects\GoogleDrive\Programming\C#\WikipediaParsingFlags\WikipediaParsingFlags\bin\Debug\WikipediaParsingFlags.exe
+E:\Projects\GoogleDrive\Programming\C#\WikipediaParsingFlags\WikipediaParsingFlags\bin\Debug\WikipediaParsingFlags.pdb
+E:\Projects\GoogleDrive\Programming\C#\WikipediaParsingFlags\WikipediaParsingFlags\obj\x86\Debug\WikipediaParsingFlags.Form1.resources
+E:\Projects\GoogleDrive\Programming\C#\WikipediaParsingFlags\WikipediaParsingFlags\obj\x86\Debug\WikipediaParsingFlags.Properties.Resources.resources
+E:\Projects\GoogleDrive\Programming\C#\WikipediaParsingFlags\WikipediaParsingFlags\obj\x86\Debug\WikipediaParsingFlags.csproj.GenerateResource.Cache
+E:\Projects\GoogleDrive\Programming\C#\WikipediaParsingFlags\WikipediaParsingFlags\obj\x86\Debug\WikipediaParsingFlags.exe
+E:\Projects\GoogleDrive\Programming\C#\WikipediaParsingFlags\WikipediaParsingFlags\obj\x86\Debug\WikipediaParsingFlags.pdb
+E:\Projects\GoogleDrive\Programming\C#\WikipediaParsingFlags\WikipediaParsingFlags\obj\x86\Debug\WikipediaParsingFlags.csprojResolveAssemblyReference.cache
